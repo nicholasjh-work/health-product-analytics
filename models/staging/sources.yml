@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: daily_activity
+        description: "Fitbit daily activity: steps, distance, active minutes, calories"
+      - name: sleep_day
+        description: "Fitbit daily sleep: minutes asleep, time in bed"
+      - name: heartrate_seconds
+        description: "Fitbit heart rate (sampled per minute from per-second data)"
+      - name: daily_intensities
+        description: "Fitbit daily intensity minutes breakdown"
+      - name: daily_calories
+        description: "Fitbit daily calorie burn"
+      - name: minute_mets
+        description: "Fitbit METs per minute"
+      - name: member_profiles
+        description: "Enrichment: member demographics and health goals"
+      - name: experiments
+        description: "Enrichment: A/B experiment results"

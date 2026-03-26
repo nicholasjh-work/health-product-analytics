@@ -1,0 +1,5 @@
+experiment_name,feature,metric,start_month,end_month,control_size,treatment_size,control_rate,treatment_rate,absolute_lift,relative_lift_pct,p_value,significant
+sleep_coaching_v2,sleep_tracking,7d_sleep_score_improvement,2016-04,2016-04,15,15,0.6667,0.8,0.1333,20.0,0.409,False
+activity_nudge_timing,activity_tracking,daily_step_goal_completion,2016-04,2016-05,15,15,0.6667,0.6667,0.0,0.0,1.0,False
+recovery_insight_card,recovery_score,weekly_recovery_check_rate,2016-04,2016-05,15,15,0.6,0.4,-0.2,-33.33,0.2733,False
+heart_rate_alert_threshold,heart_rate_monitoring,hr_alert_engagement_30d,2016-04,2016-05,15,15,0.4,0.4667,0.0667,16.67,0.7125,False
