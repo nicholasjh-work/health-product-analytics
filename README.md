@@ -1,6 +1,6 @@
 # Health Product Analytics
 
-**[Live Interactive Dashboard](https://nicholasjh-work.github.io/health-product-analytics/)**
+**[Live Interactive Dashboard](https://healthmetrics.nicholashidalgo.com)**
 
 Health-specific product analytics for a wearable wellness platform, built on real Fitbit data from 30+ users (Kaggle, CC0 license). Tracks feature engagement by health domain (sleep, activity, heart rate, recovery), health outcome trends, behavior change KPIs, cohort retention by engagement tier, and A/B experiment analysis.
 
